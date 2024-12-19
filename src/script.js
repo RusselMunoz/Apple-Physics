@@ -19,3 +19,6 @@ scene.add(axesHelper);
 camera.position.z = 5;
 
 renderer.render(scene, camera)
+
+
+console.log("Testing");
